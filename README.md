@@ -1,2 +1,2 @@
 # BOOKCHAPTER
-This are programing example of different types of feature selection methods.
+This are programing example for  different types of feature selection methods.
